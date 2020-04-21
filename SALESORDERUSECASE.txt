@@ -1,0 +1,22 @@
+Please complete solution for the Use Case.
+
+
+
+Input – Excel to Database
+Output – Dataframe or Excel or Database
+
+
+
+
+Retail Sales  - Use CASE 
+
+1)	Extract OrderDate month_num, day_of_month, day_of_week, hour_of_day -  function ()
+
+2)	Get Items whose cost range from 20 to 100 dollars - try to use query method     ,  Normal Filter 
+
+3)	Which representative  sold  the most products?
+
+4)	What item sold the most?
+
+5)	What region sold the most?
+
